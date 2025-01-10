@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\x64\Debug\JumpJump.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Pixel\PixelShaderShadowMap.pso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Pixel\ToonPixelShader.pso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Pixel\ToonPixelShaderField.pso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Vertex\VertexShader3D4Frame.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Vertex\VertexShader3D.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Vertex\VertexShader3D8Frame.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Vertex\VertexShader3DNormal4Frame.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Vertex\VertexShader3DNormal8Frame.vso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\fko2347024\Desktop\GitHub\Game\HopStepJumpJump\01.ソースファイル\Data\Shader\Vertex\VertexShaderShadowMap.vso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
